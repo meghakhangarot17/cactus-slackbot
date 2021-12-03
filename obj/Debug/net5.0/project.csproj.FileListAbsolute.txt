@@ -15,4 +15,5 @@
 /Users/abhijeetsinghkhangarot/Desktop/project/obj/Debug/net5.0/project.genruntimeconfig.cache
 /Users/abhijeetsinghkhangarot/Desktop/project/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/abhijeetsinghkhangarot/Desktop/project/bin/Debug/net5.0/SlackAPI.dll
-/Users/abhijeetsinghkhangarot/Desktop/project/obj/Debug/net5.0/project.csproj.CopyComplete
+/Users/abhijeetsinghkhangarot/Desktop/project/bin/Debug/net5.0/CsvHelper.dll
+/Users/abhijeetsinghkhangarot/Desktop/project/bin/Debug/net5.0/HtmlAgilityPack.dll
